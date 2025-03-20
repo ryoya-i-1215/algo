@@ -77,6 +77,10 @@
     "utility": "cpp",
     "stop_token": "cpp",
     "text_encoding": "cpp",
-    "print": "cpp"
+    "print": "cpp",
+    "__tree": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "unordered_set": "cpp"
   }
 }
